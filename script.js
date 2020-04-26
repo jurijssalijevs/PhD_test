@@ -21,7 +21,7 @@ let appData = {
 }
 
 console.log(appData.budget);
-console.log(appData.budget);
+console.log(appData.timeData);
 console.log(appData.expenses);
 console.log(appData.expenses);
 alert(appData.budget)
